@@ -1,0 +1,19 @@
+1. To install Docker -> sudo yum install docker
+2. To update the existing packages -> sudo yum update
+3. To start docker services -> sudo service docker start
+4. To get the docker info in the instances -> docker info
+5. To add user to a docker group -> sudo usermod -ag docker <username>
+6. To clean the terminal -> clear
+7. To get all the docker images -> docker images
+8. To get all the containers running in the machine -> docker ps
+9. To get the docker version -> docker -v
+10. To display all the commands -> docker help
+11. To login to a docker registry -> docker login
+	-username : username
+	-password : pswd
+12. To pull the image -> docker pull <image name>
+13. To run the image -> docker run <image name>
+14. To build the image -> docker build
+15. To tag version to the image -> docker tag
+16. To push the image -> docker push
+17. To remove the image -> docker rmi <image name>
