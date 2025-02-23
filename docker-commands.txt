@@ -1,3 +1,5 @@
+			Docker Commands
+
 1. To install Docker -> sudo yum install docker
 2. To update the existing packages -> sudo yum update
 3. To start docker services -> sudo service docker start
